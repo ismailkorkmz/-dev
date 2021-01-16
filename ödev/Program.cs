@@ -49,7 +49,7 @@ namespace ödev
                 Console.WriteLine("");
             }
 
-            Console.WriteLine("----------> While <----------");
+            Console.WriteLine("----------> While <-----------");
 
             int x = 0;
             while (x < urunler.Length )
